@@ -1,9 +1,11 @@
 # Rare.x
 
-Tokenizing Rare Real World Assets (RWAs)
-  - NMA's (net mineral acres), leases, etc.
+Tokenizing the Rare-Earth Mineral Industry
 
 We believe in a world where barriers to mineral property ownership are removed. Rarely's unique approach to tokenizing real-world, revenue generating, rare earth mineral property has the potential to deliver more revenue and cut costs to operators, majors, and super majors alike. By automating the closing process for all parties to make closing faster, easier, and more secure than ever. Rarely are things made this simple in the oil industry, but with our solution, brokers, agents, and title companies are able to migrate to a paperless remote closing process, all while creating a seamless royalty stream to the asset holder.
+
+Real World Assets (RWAs)
+  - NMA's (net mineral acres), leases, etc.
 
 Proof of Existence (e.g. Certificates, Degrees, Legal Ownership)
   - Steamline title process
