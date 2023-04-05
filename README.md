@@ -1,8 +1,49 @@
 # Rare.x
 
+Overview
+
+This is a blockchain-based marketplace where users can buy and sell mineral properties. The platform is built on the XRPL and uses a custom smart contract to facilitate secure and efficient transactions. This README provides instructions on how to set up and use the marketplace.
+
+Prerequisites
+
+Before using the marketplace, you will need to have the following:
+A web3-enabled browser (e.g. Chrome with the MetaMask extension)
+An XRPL wallet
+Some XRP to use as gas fees
+
+Installation
+
+To use the marketplace, follow these steps:
+Clone this repository to your local machine.
+Install the necessary dependencies by running npm install.
+Set up your XRPL wallet and ensure you have some XRP to use as gas fees.
+Build the project by running npm run build.
+Start the project by running npm start.
+Open the marketplace in your web3-enabled browser.
+
+Usage
+
+Once you have the marketplace running in your browser, you can:
+View available mineral properties for sale.
+Purchase mineral properties by sending XRP to the seller's XRPL address.
+Sell mineral properties by creating a new listing and specifying the price in XRP.
+Withdraw proceeds from sales to your XRPL wallet.
+Security
+The marketplace is built with security in mind, using best practices for smart contract development and following the guidelines set forth by the XRPL community. However, please exercise caution when using the marketplace and ensure you are using a secure web3-enabled browser and XRPL wallet.
+
+Contributing
+We welcome contributions to this project! If you find a bug or have an idea for an enhancement, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgments
+We would like to thank the XRPL community and the developers of the web3 libraries used in this project for their contributions to open source software.
 Tokenizing the world's rarest assets.
 
-We believe in a world where barriers to mineral property ownership are removed. Rare's unique approach to tokenizing real-world, revenue generating, rare earth mineral property has the potential to deliver more revenue and cut costs to operators, majors, and super majors alike. By automating the closing process for all parties to make closing faster, easier, and more secure than ever. Rarely are things made this simple in the oil industry, but with our solution, brokers, agents, and title companies are able to migrate to a paperless remote closing process, all while creating a seamless royalty stream to the asset holder. Closing cycles can range from 30 to 90 days, if not longer, and the amount of brokers, fraud, and middlemen in the industry can make filtering out a direct deal difficult at times. The overall reason for the development of Rarely is to create a better, more inclusive and transparent, full-stream experience for royalty producing, mineral property holders, and agents.
+ETC:
+
+We believe in a world where barriers to mineral property ownership are removed. Rare's unique approach to tokenizing real-world, revenue generating, rare earth mineral property has the potential to deliver more revenue and cut costs to operators, majors, and super majors alike. By automating the closing process for all parties to make closing faster, easier, and more secure than ever. Rare are things made this simple in the oil industry, but with our solution, brokers, agents, and title companies are able to migrate to a paperless remote closing process, all while creating a seamless royalty stream to the asset holder. Closing cycles can range from 30 to 90 days, if not longer, and the amount of brokers, fraud, and middlemen in the industry can make filtering out a direct deal difficult at times. The overall reason for the development of Rare is to create a better, more inclusive and transparent, full-stream experience for royalty producing, mineral property holders, and agents.
 
 Key Components:
 
